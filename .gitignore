@@ -1,0 +1,9 @@
+.ipynb_checkpoints*
+data*
+*.txt
+*.tex
+*_files*
+__pycache__*
+Hot50_Statewide_2028.pdf
+*~
+
